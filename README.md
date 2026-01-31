@@ -1,4 +1,4 @@
-##Shivansh
+Shivansh
 
 I’m a high school student who is currently learning, experimenting, and building projects in AI, systems, and cybersecurity.
 
