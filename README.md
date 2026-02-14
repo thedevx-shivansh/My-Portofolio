@@ -48,7 +48,9 @@ This project is centered on **empirical validation**, not benchmarks or training
 - GitHub repository:  
   https://github.com/thedevx-shivansh/free-tier-llm-inference-dhlia  
 - Kaggle execution log:  
-  https://www.kaggle.com/code/shivanshdevx/free-tier-llm-inference-validation  
+  https://www.kaggle.com/code/shivanshdevx/free-tier-llm-inference-validation
+- Zenodo Record:
+  https://zenodo.org/records/18466177
 
 This project is part of an **ongoing student research paper submission**.
 
