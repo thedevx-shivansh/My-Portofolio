@@ -89,6 +89,13 @@ This project was built as an **experiment under hackathon constraints**, not as 
 If something looks simple here, it’s usually because I removed what didn’t matter.
 
 ---
+---
+
+## Certifications & Training
+
+- **Generative AI Engineering Mastermind** — *Outskill* An intensive technical program focused on AI-native engineering, LLM orchestration, and generative AI workflows. This training reinforced my understanding of how to build and integrate multi-agent systems and foundational models beyond basic API interactions.  
+  - **Cyber Security & Ethical Hacking** — *E&ICT Academy, IIT Kanpur* A structured winter training program covering vulnerability assessment, network security, and ethical hacking methodologies. This provided a formal technical foundation for my ongoing exploration of practical networking, cybersecurity concepts, and understanding how systems break under real-world conditions.  
+  
 
 ## What I’m Learning Next
 
